@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(image.jpg/IMG-20241030-WA0056.jpg);
+    background-color: #7bc719;
+    padding: 20px;
+}
+h1 {
+    color: #256aac;
+    text-align: center;
+}
+form {
+    background-color: #10b146;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #b41010;
+    border: none;
+    border-radius: 5px;
+}
+#news-container {
+    background-color: #9b1490;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
